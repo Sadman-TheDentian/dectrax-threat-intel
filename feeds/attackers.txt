@@ -1,0 +1,26 @@
+# DECTRAX Cyber Deception Threat Feed
+# Source: DECTRAX Active Defense Telemetry (https://dectrax.com)
+# Generated: Daily
+# Format: IP
+# Maintainer: security@dectrax.com
+# Zero-false-positive attacker IPs observed interacting with decoy services
+185.220.101.5
+185.220.101.7
+194.26.29.112
+45.154.255.88
+193.142.146.35
+185.196.8.12
+91.240.118.232
+194.135.31.81
+45.95.147.236
+185.246.221.75
+195.178.120.44
+45.143.203.18
+194.26.29.47
+185.220.100.242
+185.220.100.252
+193.142.146.88
+45.154.255.102
+185.246.221.90
+194.135.31.95
+91.240.118.150
